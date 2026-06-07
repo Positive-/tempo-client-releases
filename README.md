@@ -18,17 +18,19 @@ Tempo is built for groups that want to improve as a team, especially in:
 
 The goal is to make post-game review easier when you care about both the in-game replay and what your team was saying at the time.
 
-## Current Release
+## Screenshots
 
-The current public release is `v0.0.1`.
+### Dashboard
 
-This release is a Windows portable build. Download the portable zip from the latest GitHub release, extract it anywhere you want, and launch `Tempo.exe`.
+![Tempo dashboard](images/dashboard.png)
 
-## Why This Repo Exists
+### Session Stats
 
-This repository hosts public Tempo release builds and release notes.
+![Expanded session stats](images/session-stats.png)
 
-It does not contain the private application source repository. It exists so players can download Tempo and so installed builds can receive updates.
+### Replay Review
+
+![Replay review with minimal overlay](images/replay-overlay.png)
 
 ## Notes
 
