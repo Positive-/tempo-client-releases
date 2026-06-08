@@ -30,8 +30,8 @@ The session library is built for repeated review. You can search, filter by patc
 - Expand a recorded session to compare team stats, objective counts, and player-level performance.
 - Click a Blue or Red team label to open a multi-search for that roster.
 - Click an individual player nametag to open their OP.GG profile.
-- Use the minimal replay overlay to control synced audio without covering the replay.
-- Choose which queues are auto-recorded, how roster clicks behave, which overlay style to use, and how old sessions should be cleaned up.
+- Use the replay overlay to control synced audio and mark up plays without covering the replay.
+- Choose which queues are auto-recorded, how roster clicks behave, and how old sessions should be cleaned up.
 
 ## Screenshots
 
@@ -45,7 +45,7 @@ The session library is built for repeated review. You can search, filter by patc
 
 ### Replay Review
 
-![Replay review with minimal overlay](images/replay-overlay.png)
+![Replay review with annotation overlay](images/replay-overlay.png)
 
 ### Settings
 
